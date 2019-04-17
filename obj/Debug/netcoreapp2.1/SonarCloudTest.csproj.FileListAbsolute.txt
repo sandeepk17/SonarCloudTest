@@ -1,0 +1,14 @@
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\bin\Debug\netcoreapp2.1\SonarCloudTest.deps.json
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\bin\Debug\netcoreapp2.1\SonarCloudTest.runtimeconfig.json
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\bin\Debug\netcoreapp2.1\SonarCloudTest.runtimeconfig.dev.json
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\bin\Debug\netcoreapp2.1\SonarCloudTest.dll
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\bin\Debug\netcoreapp2.1\SonarCloudTest.pdb
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\obj\Debug\netcoreapp2.1\SonarCloudTest.csprojAssemblyReference.cache
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\obj\Debug\netcoreapp2.1\SonarCloudTest.csproj.CoreCompileInputs.cache
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\obj\Debug\netcoreapp2.1\SonarCloudTest.RazorAssemblyInfo.cache
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\obj\Debug\netcoreapp2.1\SonarCloudTest.RazorAssemblyInfo.cs
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\obj\Debug\netcoreapp2.1\SonarCloudTest.AssemblyInfoInputs.cache
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\obj\Debug\netcoreapp2.1\SonarCloudTest.AssemblyInfo.cs
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\obj\Debug\netcoreapp2.1\SonarCloudTest.RazorTargetAssemblyInfo.cache
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\obj\Debug\netcoreapp2.1\SonarCloudTest.dll
+C:\Users\Ian.WIN10DELLXPS15\Desktop\feature\SonarCloudTest\obj\Debug\netcoreapp2.1\SonarCloudTest.pdb
