@@ -1,0 +1,2 @@
+# SonarCloudTest
+Testing Sonarclouds capabilities.
